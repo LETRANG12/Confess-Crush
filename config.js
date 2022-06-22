@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Em biết mà hahahaha',
     messDesc: 'Thế giờ thích thì phải nói đi thôiiii',
     btnAccept: 'okiii :3',
-   
+    messLink: 'https://github.com/zukahai/Confess-Crush'
 }
