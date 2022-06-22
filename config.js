@@ -12,6 +12,6 @@ const CONFIG = {
     reply: 'Em đáng yêu vlllll',
     mess: 'Em biết mà hahahaha',
     messDesc: 'Thế giờ thích thì phải nói đi thôiiii',
-    btnAccept: 'okiii :3',
+    btnAccept: 'okii :3',
     messLink: 'https://www.facebook.com/chi.trang.73550'
 }
